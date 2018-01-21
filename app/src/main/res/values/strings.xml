@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GithubClient</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="login_error">Username can not be empty</string>
+    <string name="incorrect_login_or_password">Incorrect login or Password</string>
+    <string name="no_description">No description, website, or topics provided.</string>
+    <string name="internet_connection_problem">Internet connection problem</string>
+    <string name="commits">Commits:</string>
+    <string name="exit">exit</string>
+</resources>
